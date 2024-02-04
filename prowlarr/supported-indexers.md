@@ -2,15 +2,15 @@
 title: Prowlarr Supported Indexers
 description: Indexers currently named as supported in the current nightly build of Prowlarr. Other indexers may be available via either Generic Newznab or Generic Torznab.
 published: true
-date: 2024-02-02T00:56:23.243366
+date: 2024-02-04T01:00:14.280884
 tags: prowlarr, indexers
 editor: markdown
-dateCreated: 2024-02-02T00:56:23.243366
+dateCreated: 2024-02-04T01:00:14.280884
 ---
 
 - Supported Trackers and Indexers as of
-  - Prowlarr Build `1.13.2.4250` / [Commit: 2bfb83893377aae2649d053ae789b1617ef9d747](https://github.com/Prowlarr/Prowlarr/commit/2bfb83893377aae2649d053ae789b1617ef9d747)
-  - [Prowlarr Indexers Commit: 7cd4d8c0146ff62e8c8995854232410f12bcc678](https://github.com/Prowlarr/Indexers/commit/7cd4d8c0146ff62e8c8995854232410f12bcc678)
+  - Prowlarr Build `1.13.2.4251` / [Commit: 3496263cd2a9065590789dc91988af0ad3e5700e](https://github.com/Prowlarr/Prowlarr/commit/3496263cd2a9065590789dc91988af0ad3e5700e)
+  - [Prowlarr Indexers Commit: 83be27ad22437145a83dd162fe8b46a6af1f4b75](https://github.com/Prowlarr/Indexers/commit/83be27ad22437145a83dd162fe8b46a6af1f4b75)
 
 ---
 
@@ -107,7 +107,7 @@ dateCreated: 2024-02-02T00:56:23.243366
 |[torrent-pirat](http://www.torrent-pirat.com/){#torrent-pirat}|torrent-pirat is a RUSSIAN Public Torrent Tracker for 3X|Russian (Russia)|
 |[Torrent9](https://www.torrent9.fm/){#torrent9}|Torrent9 is a FRENCH Public site for TV / MOVIES / GENERAL|French (France)|
 |[Torrent911](https://www.torrent911.vc/){#torrent911}|Torrent911 is a French Public site for TV / MOVIES / GENERAL|French (France)|
-|[Torrent9 clone](https://www.torrent9.boo/){#torrent9clone}|Torrent9 clone is a FRENCH Public Torrent9 clone for TV / MOVIES / GENERAL|French (France)|
+|[Torrent9 clone](https://www.torrent9.kim/){#torrent9clone}|Torrent9 clone is a FRENCH Public Torrent9 clone for TV / MOVIES / GENERAL|French (France)|
 |[torrent\.by](https://torrent.by/){#torrentby}|torrent\.by is a BELARUSIAN public Torrent Tracker|Russian (Russia)|
 |[Torrent\[CORE\]](https://torrentcore.xyz/){#torrentcore}|Torrent\[CORE\] is a Public DHT Crawler|English (United States)|
 |[TorrentDownload](https://www.torrentdownload.info/){#torrentdownload}|TorrentDownload is a Public torrent meta-search engine|English (United States)|
